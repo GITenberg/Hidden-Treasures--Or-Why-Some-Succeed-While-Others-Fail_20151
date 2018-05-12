@@ -1,0 +1,46 @@
+_repo: Hidden-Treasures--Or-Why-Some-Succeed-While-Others-Fail_20151
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20151-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lewis, Harry A.
+    gutenberg_agent_id: '9109'
+    url: http://www.gutenberg.org/2009/agents/9109
+description: ''
+gutenberg_issued: '2006-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Success'
+- !lcsh 'United States -- Biography'
+- !lcc 'BJ'
+tableOfContents: Preface -- Introduction -- Quotations -- Daniel Drew -- Russell Sage
+  -- Cornelius Vanderbilt -- Amos Lawrence -- Horace B. Claflin -- William E. Dodge
+  -- Jay Gould -- John Wannamaker -- Alexander T. Stewart -- Nicholas Longworth --
+  Robert Bonner -- William G. Fargo -- James C. Flood -- John W. MacKay -- James C.
+  Fair -- Horace Greeley -- Thurlow Weed -- George W. Childs -- James Gordon Bennett
+  -- Phineas T. Barnum -- Mathew Vassar -- John Jacob Astor -- Potter Palmer -- James
+  Harper -- Henry Disston -- Peter Cooper -- George Law -- Darius O. Mills -- Stephen
+  Girard -- Moses Taylor -- William C. Ralston -- George Peabody -- William W. Corcoran
+  -- Nathan Mayer Rothschild -- John Adams -- Thomas Jefferson -- John Marshall --
+  Alexander Hamilton -- James Madison -- James Monroe -- Lewis Cass -- John C. Calhoun
+  -- Robert Y. Hayne -- Daniel Webster -- Andrew Jackson -- Thomas H. Benton -- Henry
+  Clay -- Martin Van Buren -- Stephen Arnold Douglass -- Abbott Lawrence -- Alexander
+  H. Stephens -- Millard Fillmore -- William H. Seward -- Horatio Seymour -- Winfield
+  S. Hancock -- George B. McClellan -- Ulysses Simpson Grant -- Stonewall Jackson
+  -- General Robert E. Lee -- Henry Wilson -- Abraham Lincoln -- Edward Everett --
+  Edwin M. Stanton -- Andrew Johnson -- James A. Garfield -- Chester A. Arthur --
+  John A. Logan -- James G. Blaine -- Samuel J. Tilden -- Henry Ward Beecher -- James
+  Watt -- George Stephenson -- Benjamin Franklin -- Eli Whitney -- Robert Fulton --
+  Elias Howe, Jr. -- Isaac M. Singer -- Richard M. Hoe -- Charles Goodyear -- Prof.
+  S. F. B. Morse -- Cyrus W. Field -- George M. Pullman -- Thomas A. Edison -- Why
+  some succeed while others fail.
+title: Hidden Treasures; Or, Why Some Succeed While Others Fail
+url: http://www.gutenberg.org/ebooks/20151
